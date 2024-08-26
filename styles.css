@@ -1,0 +1,189 @@
+
+
+.baner{
+    width: 99%;
+    height: 200px;
+    background-image: url(img/baner.jpg);
+    padding: 20px ;    
+    margin: auto; 
+    background-size: 100% 100%;
+    background-repeat: no-repeat;  
+    }
+    
+.menu{
+    width: 80%;
+    height: 45    px;   
+    margin: auto;
+}
+
+.mtd{
+width: 13%;
+height: 20px;
+
+}
+
+.active{
+    background-color: green;
+    color: white;
+}
+
+.cuerpo{
+    width: 80%;
+    height: 1200px;
+    margin: auto;    
+    
+}
+    .cuerpoiz{
+        width: 20%;
+        height: 900px;        
+        background-color:  rgb(187, 247, 187) ;    
+        float: left;
+    }
+        .cuerpocen{
+            width: 75%;
+            height: 1200px;           
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            float: left;
+        }
+        .cuerpocen1{
+            width: 100%;
+            height: 250px;           
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            float: left;
+            border: 2px solid  white;
+        
+        }
+        .cuerpocen2{
+            width: 100%;
+            height: 200px;
+            float: left;
+            margin-top: 150px;
+            text-align: justify;
+        }
+        .cuerpocen3{
+            width: 100%;
+            height: 200px;
+            float: left;
+            text-align: justify;
+        }
+              
+        .fondo{
+            background-color: green; 
+            color:white;
+        }
+            .cajas{
+                width: 95%;
+                height: 370px; 
+                border: 5px solid rgb(187, 247, 187);
+                background-color:  white;               
+                float: left;
+                border-radius: 10px;               
+            }
+                p{
+                    padding: 10px 15px; 
+                    width: 98%;
+                    height: 150;                                          
+                }
+               
+        
+            .cajas:hover{
+                box-shadow: -15px 20px 20px ;
+                border: 2px solid black;
+                background-color: rgb(187, 247, 187);               
+                               
+            }
+          
+            .tablas{
+                width: 100%;
+                height: 800px;               
+            }
+            .tds{
+                width: 33%;
+                text-align: justify;
+            }
+             h2{
+                padding: 0px 30px ;
+                
+             }
+              
+            
+
+    .cuerpode{ 
+        
+        width: 25%;
+        height: 1050px;        
+        float: left;        
+    }
+
+    .piedepagina{
+        width: 99% ;
+        height: 200px;
+        margin: auto;
+        background-image: url(img/piedepagina.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;  
+    }
+    .pagina1{
+        width: 350px;
+        height: 200px;
+        
+
+        float: left;
+
+    }
+    .pagina2{
+        width: 350px;
+        height: 200px;
+        float: left;
+    }
+    .pagina3{
+        width: 350px;
+        height: 200px;
+        float: left;
+        
+    }
+
+    .imag{
+        width: 250px;
+        height: 60px;
+        margin: center;
+        margin-top: 5px;           
+        background-image: url(img/nombre.png);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;  
+    }
+   
+     
+    .aicon{
+             
+       font-size: 25px;       
+    }
+
+    .ptable{
+        width: 200px;
+        height: 50px;        
+        
+    }
+    .ptd{
+        width: 50px;
+        height: 40px;
+    }
+
+    .texto{
+        font-size: 17px;
+        font: condensed 140% sans-serif;
+        margin-left: 10px;
+    }
+    .texto:hover{
+        text-decoration: underline;
+    }
+
+    .submenu:hover{
+        width: 50px;
+        height: 50px;
+        background-color: black;
+    }
+
+
